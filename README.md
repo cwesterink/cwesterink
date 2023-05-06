@@ -8,7 +8,8 @@ I've been programming since middle school. Started with robotics and small Pytho
 
 *   🌍  I'm based in Pittsburgh
 *   ✉️  You can contact me at [constantine.westerink@gmail.com](mailto:constantine.westerink@gmail.com)
-*   🧠  I'm learning Java### Skills 
+*   🧠  I'm learning Java
+### Skills 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
