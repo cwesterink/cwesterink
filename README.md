@@ -4,11 +4,9 @@ Hi 👋 My name is Constantine Westerink
 CS Major @ CMU
 --------------
 
-I've been programming since middle school. Started with robotics and small Python projects. Currently working on Typescript and web projects, in addition to a bit of Java.
-
 *   🌍  I'm based in Pittsburgh
 *   ✉️  You can contact me at [constantine.westerink@gmail.com](mailto:constantine.westerink@gmail.com)
-*   🧠  I'm learning Java
+*   🧠  I'm learning Next js
 ### Skills 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
